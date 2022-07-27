@@ -1,0 +1,39 @@
+:root{
+	--base:#000000;
+	--space:10px;
+	--blur:2px;
+
+
+}
+
+
+
+.mainindex{
+	margin-left: 500px;
+	margin-top: 100px;
+
+}
+.img{
+	margin-left: 570px;
+	margin-top: 20px;
+		border-style:solid;
+    border-color:red;
+    border-radius: 5px;
+    border-width: 5px;
+}
+.mainindex p {
+	margin-left: 100px;
+	font-size: 50px;
+}
+h1{
+	font-size: 50px;
+	margin-left: 50px;
+	filter:blur(var(--blur));
+	color: var(--base);
+}
+img{
+	padding: var(--space);
+	background: var(--base);
+	filter:blur(var(--blur));
+
+}
