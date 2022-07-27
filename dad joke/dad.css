@@ -1,0 +1,33 @@
+html{
+	max-width: 700px;
+	padding-left: 500px;
+	padding-top: 20px;
+}
+
+.wrapper{
+	text-align: center;
+	box-shadow: 10px,10px,10px;
+	font-size: 40px; 
+	display: grid;
+	grid-gap:2px;
+	background-color: #2f6bc6;
+	padding-top: 2px;
+	align-item:center;
+
+}
+.joke{
+	position: relative;
+	
+
+}
+.button{
+	border-radius: 5px;
+	position: relative;
+
+	margin-left: 250px;
+	color: yellow;
+	background-color: red;
+	border-color: pink;
+
+	box-shadow: 100px,10px,10px solid pink;
+}
