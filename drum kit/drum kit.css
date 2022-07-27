@@ -1,0 +1,139 @@
+.keys{
+
+
+	width: 100px;
+	border-radius: 10px;
+	height: 100px;
+	padding-top: 0px;
+	padding-left: 150px;
+
+	position:relative;
+	display: inline;
+	justify-content:center;
+	align-items:center;
+
+}	
+
+.key{
+	margin-top: 200px;
+
+	display:inline-block;
+	align-items:center;
+	justify-content:center;
+	
+	position:relative;
+	border:5px solid black;
+	border-radius: 5px;
+	font-size: 1.5rem;
+	transition:all 0.2s;
+	width: 100px;
+	text-align: center;
+	color: red;
+	background: rgba(0,.4,0,0.4);
+	text-shadow:0 0 5px black;
+
+}
+.keychange{
+	transform:scale(1.1);
+	border-color: #ffc600;
+	box-shadow: 0 0 10px #ffc650;
+}
+
+kbd{
+	display: block;
+	font-size: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
